@@ -1,5 +1,5 @@
-# The Ultimate JavaScript Projects Collection 🚀
-## This is a repo containing NUMEROUS mini projects with cool UI that I'll be building everyday with Vanilla JS, without any additional framework ✌
+# JavaScript Projects Collection 🚀
+## This is a repo containing NUMEROUS mini projects with Vanilla JS ✌
 
 
 | Project        | Link          | Brief Description    
