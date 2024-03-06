@@ -1,6 +1,6 @@
 # Currency Converter with Javascript
 
-**DEMO :** https://fabulous-cobbler-926567.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/15-currency-converter
 
 Developed a responsive website for Currency Conversion with Javascript where user can choose FROM & TO currency code with values to be convert.
 

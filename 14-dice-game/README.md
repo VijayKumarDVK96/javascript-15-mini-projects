@@ -1,6 +1,6 @@
 # Dice Game using JavaScript
 
-**DEMO :** https://wonderful-speculoos-663090.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/14-dice-game
 
 A dice roll game developed using HTML, CSS and JavaScript
 

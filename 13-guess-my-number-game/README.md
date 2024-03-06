@@ -1,6 +1,6 @@
 # Guess My Number Game using JavaScript
 
-**DEMO :** https://wonderful-speculoos-663090.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/13-guess-my-number-game
 
 A simple guess my number game developed using HTML, CSS and JavaScript
 

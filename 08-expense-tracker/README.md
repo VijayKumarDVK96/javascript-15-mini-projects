@@ -1,6 +1,6 @@
 # Expense Tracker with JavaScript
 
-**DEMO :** https://spiffy-rolypoly-587d37.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/08-expense-tracker
 
 Developed a responsive website for tracking the expenses with Javascript where user can add the income and expenses, based on that will calculate the total amount and logs the transactions.
 

@@ -1,6 +1,6 @@
 # Simple Form Validation using JavaScript
 
-**DEMO :** https://bejewelled-platypus-2b16ae.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/06-form-validation
 
 Developed a responsive website for Form Validation using JavaScript
 

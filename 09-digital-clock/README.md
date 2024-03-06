@@ -1,6 +1,6 @@
 # Digital Clock
 
-**DEMO :** https://tranquil-bienenstitch-7fd110.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/09-digital-clock
 
 Developed a responsive website for Digital Clock using HTML, CSS, JavaScript
 

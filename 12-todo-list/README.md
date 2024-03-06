@@ -1,6 +1,6 @@
 # To Do List App using JavaScript
 
-**DEMO :** https://wonderful-speculoos-663090.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/12-todo-list
 
 A To Do List application developed using HTML, CSS and JavaScript
 

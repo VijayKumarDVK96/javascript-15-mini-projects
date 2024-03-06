@@ -1,6 +1,6 @@
 # Simple Calculator with JavaScript
 
-**DEMO :** https://tiny-melomakarona-d6b689.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/07-calculator
 
 Developed a responsive website for Simple Calculator using Javascript where calculations like add, sub, multiply, divide can be performed.
 

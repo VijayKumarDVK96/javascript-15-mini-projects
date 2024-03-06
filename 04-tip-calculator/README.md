@@ -1,6 +1,6 @@
 # Simple Tip Calculator with JavaScript
 
-**DEMO :** https://darling-sawine-d07cfd.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/04-tip-calculator
 
 Developed a responsive website for Restaurant Tip Calculator using HTML, CSS, JavaScript.
 

@@ -1,6 +1,6 @@
 # Tic Tac Toe Game with JavaScript
 
-**DEMO :** https://sprightly-figolla-93fcb8.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/02-tic-tac-toe-game
 
 Developed a responsive website for Tic Tac Toe with JavaScript where 2 users can play the game X and O who matches the pattern horizontally, vertically, or diagonally wins.
 

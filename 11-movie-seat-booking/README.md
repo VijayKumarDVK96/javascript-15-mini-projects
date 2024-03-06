@@ -1,6 +1,6 @@
 # Movie Seat Booking App using JavaScript
 
-**DEMO :** https://wonderful-speculoos-663090.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/11-movie-seat-booking
 
 A Seat booking application developed using HTML, CSS and JavaScript
 

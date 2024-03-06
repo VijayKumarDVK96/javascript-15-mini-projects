@@ -1,6 +1,6 @@
 # Simple Quiz App with JavaScript
 
-**DEMO :** https://transcendent-douhua-98a39c.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/05-quiz-app
 
 Developed a responsive website for Quiz App where questions are loaded from the data, able to attend and review and view the final results with answers.
 

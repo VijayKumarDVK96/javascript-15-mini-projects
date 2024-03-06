@@ -1,6 +1,6 @@
 # Simple Weather App using JavaScript
 
-**DEMO :** https://wonderful-speculoos-663090.netlify.app/
+**DEMO :** https://javascript-mini-projects-dvk.netlify.app/10-weather-app
 
 Developed a responsive website for Weather Application using HTML, CSS, JavaScript
 
